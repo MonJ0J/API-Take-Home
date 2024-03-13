@@ -2,6 +2,9 @@
 
 This script fetches company ticker information from the SEC (Securities and Exchange Commission) and groups companies based on their state of incorporation. 
 
+## Time Invested
+40-50 minutes in three seatings. I am in a Srping break trip and it hasn't been easy to work on it. It works almost completely.
+
 ## Features
 
 - Fetches company ticker information from the SEC's public JSON file.
