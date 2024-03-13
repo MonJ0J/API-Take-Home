@@ -23,3 +23,12 @@ Ensure Python 3 and pip are installed on your machine. Install the `requests` li
 bash
 pip install requests
 ```
+
+## Usage
+
+Ensure Python 3 and pip are installed on your machine. Install the `requests` library using pip:
+
+```
+bash
+python3 script_name.py
+```
